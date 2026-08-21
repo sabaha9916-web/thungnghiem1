@@ -1,0 +1,6 @@
+{
+  "name": "Tiếng Trung Bắc Hải",
+  "description": "Hệ thống Sách điện tử 100 trang tiếng Trung Bắc Hải kết hợp xác thực học viên, khóa thiết bị duy nhất và quản trị giáo viên.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
